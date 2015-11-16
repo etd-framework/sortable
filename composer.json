@@ -1,0 +1,13 @@
+{
+  "name": "etdsolutions/sortable",
+  "description": "Shim repository for Sortable",
+  "keywords": ["sortable", "reorder", "list", "html5", "drag", "and", "drop", "dnd", "web-components"],
+  "authors": [
+    {
+      "name": "RubaXa",
+      "email": "ibnRubaXa@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/RubaXa/Sortable"
+}
